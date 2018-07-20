@@ -18,4 +18,5 @@ below.
 ----------------------------------------------------------------------------------------
 ## For developers
 
-	 npm init  - to create package
+	 1)npm init  - to create package
+	 2)npm install bootstrap@4.0.0-alpha.6 --save
