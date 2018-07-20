@@ -20,4 +20,4 @@ below.
 
 	 1)npm init  - to create package
 	 2)npm install bootstrap@4.0.0-alpha.6 --save
-	 3)npm install gulp browser-sync gulp-sass --save-dev
+	 3)npm install gulp browser-sync gulp-sass --save-dev (npm install -g gulp)
